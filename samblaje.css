@@ -1,0 +1,20 @@
+body{
+    background-image: url(imagen/ENTREGA\ DE\ TRABAJOS\ 6tO-SEC.png);
+}
+h1{
+    text-align: center ;
+    color: white;
+    
+}
+img{
+    height: 350px;
+    width: 350px;
+}
+img:hover{
+    cursor: pointer;
+    opacity: 1;
+    border-radius: 40px;
+    transition: all 450ms ease-in-out;
+    height: 500px;
+    width: 500px;
+}
